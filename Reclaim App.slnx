@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Reclaim.Api.Tests/Reclaim.Api.Tests.csproj" Id="fefa4d77-9c2f-47f0-a04c-f6e8822f35fb" />
+  <Project Path="Reclaim.Api/Reclaim.Api.csproj" />
+</Solution>
